@@ -11,7 +11,6 @@ This project is focused on predicting the risk of cardiovascular disease (CHD) u
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 To run this project locally, follow these steps:
@@ -33,10 +32,6 @@ The model's performance is evaluated using the Jaccard similarity score and accu
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to contact us if you have any questions or suggestions.
 
 ![Cardio](cardio_image.jpg)
